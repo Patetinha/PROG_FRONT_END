@@ -7,5 +7,5 @@ document.write ("x = " + x + "<br>");// + juntar(concatenar)
 document.write (`x = ${x}<br>`);//
 document.write (`O valor de z vale ${z}<br>`);//
 document.write (`z=${z} , y=${y}, x=${x}<br>`);//crase ok
-document.write ('z=${z} , y=${y}, x=${x}<br>');//aspas simples vira texto
+document.write ('z=${z} , y=${y}, x=${x}<br>');//exemplo aspas simples vira texto
 document.write(`O valor de z vale ${2 * y + z}<br>`);// correto
