@@ -1,0 +1,11 @@
+let i,j;
+i=100;
+j=100;
+i++;
+i++;
+i++;
+i++;
+j--;
+j--;
+j--;
+document.write(`i=${i} j=${j}`);

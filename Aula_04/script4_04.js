@@ -1,7 +1,8 @@
 let a,b;
-a=prompt("Digite o nome");
-b=prompt("Digite o sobrenome");
+a=prompt("Digite o nome");//Abelardo
+b=prompt("Digite o sobrenome");//Pafuncio
 document.write (`${a} ${b}`);
-b+=" ";
-b+=a;
+b+=" ";//"Pafuncio "
+b+=a;//"Pafuncio Abelardo"
 document.write ("<br>"+ b);
+

@@ -1,4 +1,6 @@
 let a;
-a=parseInt(prompt("Digite um número"));
-document.write ("a ="+ (++a));
-document.write ("<br>a ="+ a);
+a=parseInt(prompt("Digite um número"));//a=10
+document.write ("a ="+ (a++));//a=10
+document.write ("<br>a ="+ a);//a=11
+document.write ("<br>a ="+ (++a));//a=12
+document.write ("<br>a ="+ a);//a=12

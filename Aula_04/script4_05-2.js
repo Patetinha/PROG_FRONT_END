@@ -1,0 +1,14 @@
+let i;
+i=100;
+i++;
+document.write(i +"<br>");
+i++;
+document.write(i +"<br>");
+i++;
+document.write(i +"<br>");
+i++;
+document.write(i +"<br>");
+i++;
+document.write(i +"<br>");
+i++;
+document.write(i +"<br>");
