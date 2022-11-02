@@ -1,5 +1,5 @@
 let a,b;
-const saida=document.querySelector(".saida");
+const saida=document.querySelector(".saida"); // buscou quem tem a class="saida"
 a = 5;
 b = "5";
 if (a == b) {
