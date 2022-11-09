@@ -16,6 +16,6 @@ else if (media >= 5) {
 }
 else {
     resultado.innerHTML+=(`Reprovado! Media Final: ${media}`);
-        alert (`Reprovado \n\nMedia Final: ${media}`);
+        alert(`Reprovado \n\nMedia Final: ${media}`);
 
     }
